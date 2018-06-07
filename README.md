@@ -24,3 +24,11 @@ car_msgs/Vertex[] vertices
   int32 type
   int32 flags
 ```
+# How-to install
+
+```console
+$ cd <catkin_ws>/src
+$ git clone https://github.com/CARMinesDouai/car_msgs.git
+$ cd ..
+$ catkin_make
+```
